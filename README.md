@@ -19,3 +19,4 @@ MỤC 2: HÌNH ẢNH KẾT QUẢ CÁC MÀN HÌNH CHỨC NĂNG
 <img width="982" height="707" alt="image" src="https://github.com/user-attachments/assets/193548ce-07bd-41e3-8c66-da508f0383a8" />
 <img width="841" height="711" alt="image" src="https://github.com/user-attachments/assets/66b00905-c4d6-42c6-bf8f-a5882bdd18e0" />
 <img width="986" height="710" alt="image" src="https://github.com/user-attachments/assets/d42ab35a-e67a-4be1-b27f-77c7be0bb071" />
+<img width="986" height="710" alt="image" src="https://github.com/user-attachments/assets/de4c9b61-792f-47fb-a9a5-ffecc606c3bb" />
