@@ -6,16 +6,16 @@ MỤC 1: THÔNG TIN SINH VIÊN
 
 MỤC 2: HÌNH ẢNH KẾT QUẢ CÁC MÀN HÌNH CHỨC NĂNG
 
-1. Màn hình Chính / Tổng quan hệ thống:![Màn hình                          
-<img width="1345" height="1015" alt="image" src="https://github.com/user-attachments/assets/1a4120c3-c82f-403e-9ca0-3b9af77acef9" />
+1. giao diện chính                         
+<img width="951" height="673" alt="image" src="https://github.com/user-attachments/assets/49b6b605-bcb8-4c38-b0a4-89c811dd82b0" />
+<img width="888" height="613" alt="image" src="https://github.com/user-attachments/assets/cfb733aa-4c2d-4120-a694-8db2a0a7bfd5" />
 
-2. Màn hình Quản lý Danh mục (CRUD - Thêm/Sửa/Xóa):![Màn hình                           
-<img width="1175" height="436" alt="image" src="https://github.com/user-attachments/assets/eb8bd763-3df9-4d35-8a39-67b35f11d2af" />
 
-3. Màn hình Thực thi Nghiệp vụ chính                            
-<img width="1189" height="789" alt="image" src="https://github.com/user-attachments/assets/cf4c13b2-18d5-40de-87dd-111c99e126c0" />
 
-4. Màn hình Báo cáo - Thống kê:![Màn hình Thống
-<img width="1162" height="794" alt="image" src="https://github.com/user-attachments/assets/3828ca6f-b194-4c9a-a22d-65634ad489da" />
 
-<img width="1162" height="794" alt="image" src="https://github.com/user-attachments/assets/d4c7a440-298d-423b-a944-9398a1bf8d24" />
+2. kết quả thưc thi
+<img width="995" height="652" alt="image" src="https://github.com/user-attachments/assets/92adab4f-9af5-43fa-b694-1e814e9a4361" />
+<img width="883" height="607" alt="image" src="https://github.com/user-attachments/assets/5732df2d-e112-476d-b4cf-4cb90753e6d9" />
+<img width="982" height="707" alt="image" src="https://github.com/user-attachments/assets/193548ce-07bd-41e3-8c66-da508f0383a8" />
+<img width="841" height="711" alt="image" src="https://github.com/user-attachments/assets/66b00905-c4d6-42c6-bf8f-a5882bdd18e0" />
+<img width="986" height="710" alt="image" src="https://github.com/user-attachments/assets/d42ab35a-e67a-4be1-b27f-77c7be0bb071" />
